@@ -59,7 +59,7 @@ def client_connection(conn):
     print("Jogador se desconectou")
     numero_conexoes -= 1
     if numero_conexoes == 0:
-        # jogo se encerrou
+
         jogadas = 0
     conn.close()
 
