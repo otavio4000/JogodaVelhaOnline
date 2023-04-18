@@ -2,6 +2,7 @@
 
 Jogo da velha no terminal feito em python que utiliza de sockets para implementar uma comunicação cliente-servidor.
 <br></br>
+
 ## Como executar
 
 1. Primeiro, é necessário iniciar o socket do servidor, que será encarregado de fazer a comunicação entre os jogadores. para isto, utilize o comando:
