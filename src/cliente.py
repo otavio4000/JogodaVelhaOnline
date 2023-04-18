@@ -1,6 +1,6 @@
 import socket
 from time import sleep
-# Funções do client
+
 class Socket:
     def __init__(self):
         self.client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
